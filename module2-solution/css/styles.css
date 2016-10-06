@@ -4,6 +4,25 @@
   box-sizing: border-box;
 }
 
+body {
+  background-color: rgb(231, 231, 231)
+}
+
+h1 {
+  text-align: center;
+}
+
+.titlerg {
+  border: 1px solid blue;
+  position: relative;
+  float: right;
+  
+}
+
+section {
+  clear: right;
+}
+
 /* Simple Responsive Framework. */
 .row {
   width: 100%;
