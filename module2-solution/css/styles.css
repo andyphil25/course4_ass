@@ -17,7 +17,11 @@ section {
 }
 
 .titlerg {
-  border: 1px solid black;
+  border: solid black;
+  border-top-width: 0;
+  border-right-width: 0;
+  border-bottom-width: 1px;
+  border-left-width: 1px;
   position: relative;
   float: right;
   padding: 5px 40px 5px 40px;
