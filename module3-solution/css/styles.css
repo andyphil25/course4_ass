@@ -45,8 +45,12 @@ body {
 .navbar-header button.navbar-toggle {
 	margin-top: 20px;
 	margin-right: 40px;
+	height: 40px;
 }
 
+.navbar-header button.navbar-toggle, .navbar-header .icon-bar {
+  border: 1px solid black;
+}
 /********** Desktop devices only **********/
 @media (min-width: 992px) {
 
