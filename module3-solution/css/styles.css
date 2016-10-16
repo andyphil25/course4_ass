@@ -59,7 +59,9 @@ body {
   margin-bottom: 20px;
   padding: 10px;
 }
-
+h2 {
+	margin-bottom: 20px
+}
 h3 {
 	margin-top: 0px;
 }
